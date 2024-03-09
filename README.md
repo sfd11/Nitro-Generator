@@ -1,7 +1,3 @@
-<p align='center'>
-##  
-
-
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
