@@ -7,7 +7,7 @@
     >> pip install -r requirements.txt
     ```
 - #### 🖥️ Starting
-      1 - Run main.py and enjoy checking
+      1 - Run start.bat and enjoy checking
 
 ##  
 
